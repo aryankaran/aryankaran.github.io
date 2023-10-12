@@ -1,6 +1,6 @@
 # Aryan Karan
 
-[![aryan](https://img.shields.io/badge/aryankaran-.io-blue)](https://aryankaran.github.io)
+[![aryan](https://img.shields.io/badge/aryankaran-github.io-blue)](https://aryankaran.github.io)
 
 # Credits
 
